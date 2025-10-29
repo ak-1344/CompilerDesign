@@ -1,0 +1,11 @@
+n = 5;
+fact = 1;
+while (n > 1) {
+    fact = fact * n;
+    n = n - 1;
+}
+if (fact == 120) {
+    result = 1;
+} else {
+    result = 0;
+}
