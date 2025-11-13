@@ -602,11 +602,9 @@ This project is created for educational purposes as part of a Compiler Design co
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author - God
 
-**Student ID**: 23BCE1344  
 **Course**: Compiler Design  
-**Institution**: [Your Institution]  
 **Year**: 2024-2025
 
 ---
