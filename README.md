@@ -602,7 +602,7 @@ This project is created for educational purposes as part of a Compiler Design co
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author - GOD
 
 **Course**: Compiler Design  
 **Year**: 2024-2025
