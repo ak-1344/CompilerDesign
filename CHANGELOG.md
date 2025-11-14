@@ -1,8 +1,26 @@
 # Repository Cleanup and Reorganization
 
+## Date: November 14, 2025
+
+### Latest Cleanup (November 14, 2025)
+
+#### Removed Files
+- ✅ All generated files (*.tab.c, *.tab.h, lex.yy.c) - can be regenerated from source
+- ✅ Temporary parser test files (F, T, id, T*F)
+- ✅ Test input/output files (clr.txt, clrpar.txt, lalr.txt, slr.txt, slrpar.txt)
+- ✅ Sample test files (input.tac, input1.tac, test.in, input.txt, output.txt, test.txt)
+
+#### Benefits
+- **Cleaner Repository**: Only essential source code and documentation
+- **Reduced Confusion**: No generated or temporary files cluttering the repo
+- **Better Git**: Smaller repository size, cleaner diffs
+- **Professional**: Industry-standard practice to exclude generated files
+
+---
+
 ## Date: November 13, 2025
 
-### Changes Made
+### Initial Organization Changes Made
 
 #### 1. Removed Files
 - ✅ All PDF files (assignment documents)

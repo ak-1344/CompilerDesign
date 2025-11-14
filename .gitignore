@@ -1,0 +1,50 @@
+# Compiler Design Repository - Git Ignore File
+
+# Generated files from Flex/Bison
+*.tab.c
+*.tab.h
+lex.yy.c
+y.tab.c
+y.tab.h
+
+# Compiled binaries
+*.out
+*.exe
+a.out
+
+# Object files
+*.o
+*.obj
+
+# Temporary test files
+*.tmp
+*.temp
+*_test
+test_*
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Output files
+output.txt
+*.output
+
+# Test input files (keep sample inputs in docs, not root)
+input.txt
+test.in
+*.tac
+
+# Debugging files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Core dumps
+core
+core.*
